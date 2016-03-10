@@ -1,5 +1,5 @@
 # visualize_matconvnet
-A simple code to visualize any net for matconvnet [homepage](http://www.vlfeat.org/matconvnet). 
+A simple code to visualize net structure(SimpleNN/DagNN) for matconvnet [homepage](http://www.vlfeat.org/matconvnet). 
 
 # prerequisite
 DOT (https://en.wikipedia.org/wiki/DOT_(graph_description_language))
