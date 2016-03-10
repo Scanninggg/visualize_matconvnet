@@ -1,6 +1,6 @@
 # visualize_matconvnet
 A simple code to visualize any net for matconvnet[homepage](http://www.vlfeat.org/matconvnet). 
 
-prerequisite: matconvnet
-You can run demo.m for more reference.
-![](https://github.com/layumi/visualize_matconvnet/blob/master/test_net.png)
+You can run demo.m for more reference. The following picture is a simple cifar_net in cnn_cifar_init.m.
+
+![](https://github.com/layumi/visualize_matconvnet/blob/master/cifar_net.png)
