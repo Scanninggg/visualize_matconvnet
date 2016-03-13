@@ -3,7 +3,8 @@ A simple code to visualize net structure(SimpleNN/DagNN) for matconvnet [homepag
 
 # prerequisite
 DOT (https://en.wikipedia.org/wiki/DOT_(graph_description_language))
-Linux/Ubuntu users have install it automatically. 
+
+Linux/Ubuntu users have dot installed automatically. Windows/Mac can download it from http://www.graphviz.org
 
 The following picture is a 2stream inception net in test_net.m. You can run demo.m for more reference.
 
